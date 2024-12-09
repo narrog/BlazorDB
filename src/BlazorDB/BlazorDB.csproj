@@ -6,7 +6,7 @@
     <IsPackable>true</IsPackable>
     <LangVersion>Latest</LangVersion>
     <AssemblyName>BlazorDB</AssemblyName>
-    <Version>$(Version)</Version>
+    <Version>1.0.1</Version>
     <Description>A Blazor framework for interacting with IndexedDB</Description>
     <RepositoryUrl>https://github.com/narrog/BlazorDB/</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
