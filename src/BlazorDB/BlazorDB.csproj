@@ -4,20 +4,19 @@
     <TargetFramework>netstandard2.0</TargetFramework>
 	  <OutputType>Library</OutputType>
     <IsPackable>true</IsPackable>
-    <RazorLangVersion>3.0</RazorLangVersion>
     <LangVersion>Latest</LangVersion>
     <AssemblyName>BlazorDB</AssemblyName>
     <Version>$(Version)</Version>
-    <Authors>Nathan Westfall</Authors>
     <Description>A Blazor framework for interacting with IndexedDB</Description>
-    <RepositoryUrl>https://github.com/nwestfall/BlazorDB/</RepositoryUrl>
+    <RepositoryUrl>https://github.com/narrog/BlazorDB/</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Blazor IndexedDB</PackageTags>
-    <Copyright>Nathan Westfall</Copyright>
-    <licenseUrl>https://github.com/nwestfall/BlazorDB/blob/master/LICENSE</licenseUrl>
+    <Copyright>Benjamin Peter</Copyright>
+    <licenseUrl>https://github.com/narrog/BlazorDB/blob/master/LICENSE</licenseUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageId>BlazorIndexedDB</PackageId>
-    <PackageIconUrl>https://github.com/nwestfall/BlazorDB/blob/master/logo.png?raw=true</PackageIconUrl>
+    <PackageId>narrog.BlazorIndexedDB</PackageId>
+    <PackageIconUrl>https://github.com/narrog/BlazorDB/blob/master/logo.png?raw=true</PackageIconUrl>
+    <Title>narrog.BlazorIndexedDB</Title>
   </PropertyGroup>
 
   <ItemGroup>
